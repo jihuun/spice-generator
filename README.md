@@ -1,5 +1,5 @@
-# spice-generator
-A smart farm system for generate the spices. 
+# Spice Generator
+A smart-farm system for generating the spices. 
 
 > "He who controls the spice controls the universe."  
 
